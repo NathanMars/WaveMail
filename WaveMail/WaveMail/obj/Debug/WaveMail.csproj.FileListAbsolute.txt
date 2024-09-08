@@ -1,0 +1,142 @@
+C:\Users\guilh\OneDrive\Documentos\WaveMail\WaveMail\WaveMail\obj\Debug\WaveMail.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\WaveMail\WaveMail\WaveMail\obj\Debug\WaveMail.EnviarEmail.resources
+C:\Users\guilh\OneDrive\Documentos\WaveMail\WaveMail\WaveMail\obj\Debug\WaveMail.Form1.resources
+C:\Users\guilh\OneDrive\Documentos\WaveMail\WaveMail\WaveMail\obj\Debug\WaveMail.Login.resources
+C:\Users\guilh\OneDrive\Documentos\WaveMail\WaveMail\WaveMail\obj\Debug\WaveMail.Properties.Resources.resources
+C:\Users\guilh\OneDrive\Documentos\WaveMail\WaveMail\WaveMail\obj\Debug\WaveMail.csproj.GenerateResource.cache
+C:\Users\guilh\OneDrive\Documentos\WaveMail\WaveMail\WaveMail\obj\Debug\WaveMail.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\WaveMail\WaveMail\WaveMail\bin\Debug\WaveMail.exe.config
+C:\Users\guilh\OneDrive\Documentos\WaveMail\WaveMail\WaveMail\bin\Debug\WaveMail.exe
+C:\Users\guilh\OneDrive\Documentos\WaveMail\WaveMail\WaveMail\bin\Debug\WaveMail.pdb
+C:\Users\guilh\OneDrive\Documentos\WaveMail\WaveMail\WaveMail\obj\Debug\WaveMail.exe
+C:\Users\guilh\OneDrive\Documentos\WaveMail\WaveMail\WaveMail\obj\Debug\WaveMail.pdb
+C:\Users\guilh\OneDrive\Documentos\WaveMail\WaveMail\WaveMail\obj\Debug\WaveMail.CadastroLogin.resources
+C:\Users\guilh\OneDrive\Documentos\WaveMail\WaveMail\WaveMail\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+C:\Users\guilh\OneDrive\Documentos\WaveMail\WaveMail\WaveMail\bin\Debug\DevExpress.Data.v23.1.dll
+C:\Users\guilh\OneDrive\Documentos\WaveMail\WaveMail\WaveMail\bin\Debug\DevExpress.Drawing.v23.1.dll
+C:\Users\guilh\OneDrive\Documentos\WaveMail\WaveMail\WaveMail\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+C:\Users\guilh\OneDrive\Documentos\WaveMail\WaveMail\WaveMail\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+C:\Users\guilh\OneDrive\Documentos\WaveMail\WaveMail\WaveMail\bin\Debug\DevExpress.Utils.v23.1.dll
+C:\Users\guilh\OneDrive\Documentos\WaveMail\WaveMail\WaveMail\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+C:\Users\guilh\OneDrive\Documentos\WaveMail\WaveMail\WaveMail\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\guilh\OneDrive\Documentos\WaveMail\WaveMail\WaveMail\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\guilh\OneDrive\Documentos\WaveMail\WaveMail\WaveMail\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Users\guilh\OneDrive\Documentos\WaveMail\WaveMail\WaveMail\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\guilh\OneDrive\Documentos\WaveMail\WaveMail\WaveMail\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\guilh\OneDrive\Documentos\WaveMail\WaveMail\WaveMail\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\guilh\OneDrive\Documentos\WaveMail\WaveMail\WaveMail\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Users\guilh\OneDrive\Documentos\WaveMail\WaveMail\WaveMail\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Users\guilh\OneDrive\Documentos\WaveMail\WaveMail\WaveMail\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Users\guilh\OneDrive\Documentos\WaveMail\WaveMail\WaveMail\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\guilh\OneDrive\Documentos\WaveMail\WaveMail\WaveMail\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Users\guilh\OneDrive\Documentos\WaveMail\WaveMail\WaveMail\obj\Debug\WaveMail.exe.licenses
+C:\Users\guilh\OneDrive\Documentos\WaveMail\WaveMail\WaveMail\obj\Debug\WaveMail.csproj.CopyComplete
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\WaveMail\obj\Debug\WaveMail.csproj.AssemblyReference.cache
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\WaveMail\obj\Debug\WaveMail.csproj.SuggestedBindingRedirects.cache
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\WaveMail\obj\Debug\WaveMail.exe
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\WaveMail\obj\Debug\WaveMail.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\WaveMail\bin\Debug\WaveMail.exe.config
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\WaveMail\bin\Debug\WaveMail.exe
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\WaveMail\bin\Debug\WaveMail.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\WaveMail\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\WaveMail\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\WaveMail\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\WaveMail\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\WaveMail\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\WaveMail\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\WaveMail\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\WaveMail\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\WaveMail\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\WaveMail\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\WaveMail\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\WaveMail\obj\Debug\WaveMail.CadastroLogin.resources
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\WaveMail\obj\Debug\WaveMail.EnviarEmail.resources
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\WaveMail\obj\Debug\WaveMail.Form1.resources
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\WaveMail\obj\Debug\WaveMail.Login.resources
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\WaveMail\obj\Debug\WaveMail.Properties.Resources.resources
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\WaveMail\obj\Debug\WaveMail.csproj.GenerateResource.cache
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\WaveMail\obj\Debug\WaveMail.exe.licenses
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\WaveMail\obj\Debug\WaveMail.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\WaveMail\obj\Debug\WaveMail.csproj.CopyComplete
+C:\Users\guilh\OneDrive\Área de Trabalho\WaveMail V2\WaveMail\WaveMail\bin\Debug\WaveMail.exe.config
+C:\Users\guilh\OneDrive\Área de Trabalho\WaveMail V2\WaveMail\WaveMail\bin\Debug\WaveMail.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\WaveMail V2\WaveMail\WaveMail\bin\Debug\WaveMail.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\WaveMail V2\WaveMail\WaveMail\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\WaveMail V2\WaveMail\WaveMail\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\WaveMail V2\WaveMail\WaveMail\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Users\guilh\OneDrive\Área de Trabalho\WaveMail V2\WaveMail\WaveMail\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\guilh\OneDrive\Área de Trabalho\WaveMail V2\WaveMail\WaveMail\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\guilh\OneDrive\Área de Trabalho\WaveMail V2\WaveMail\WaveMail\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\guilh\OneDrive\Área de Trabalho\WaveMail V2\WaveMail\WaveMail\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Users\guilh\OneDrive\Área de Trabalho\WaveMail V2\WaveMail\WaveMail\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Users\guilh\OneDrive\Área de Trabalho\WaveMail V2\WaveMail\WaveMail\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Users\guilh\OneDrive\Área de Trabalho\WaveMail V2\WaveMail\WaveMail\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\guilh\OneDrive\Área de Trabalho\WaveMail V2\WaveMail\WaveMail\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Users\guilh\OneDrive\Área de Trabalho\WaveMail V2\WaveMail\WaveMail\obj\Debug\WaveMail.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\WaveMail V2\WaveMail\WaveMail\obj\Debug\WaveMail.CadastroLogin.resources
+C:\Users\guilh\OneDrive\Área de Trabalho\WaveMail V2\WaveMail\WaveMail\obj\Debug\WaveMail.EnviarEmail.resources
+C:\Users\guilh\OneDrive\Área de Trabalho\WaveMail V2\WaveMail\WaveMail\obj\Debug\WaveMail.Form1.resources
+C:\Users\guilh\OneDrive\Área de Trabalho\WaveMail V2\WaveMail\WaveMail\obj\Debug\WaveMail.LerEmail.resources
+C:\Users\guilh\OneDrive\Área de Trabalho\WaveMail V2\WaveMail\WaveMail\obj\Debug\WaveMail.Login.resources
+C:\Users\guilh\OneDrive\Área de Trabalho\WaveMail V2\WaveMail\WaveMail\obj\Debug\WaveMail.Properties.Resources.resources
+C:\Users\guilh\OneDrive\Área de Trabalho\WaveMail V2\WaveMail\WaveMail\obj\Debug\WaveMail.csproj.GenerateResource.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\WaveMail V2\WaveMail\WaveMail\obj\Debug\WaveMail.exe.licenses
+C:\Users\guilh\OneDrive\Área de Trabalho\WaveMail V2\WaveMail\WaveMail\obj\Debug\WaveMail.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\WaveMail V2\WaveMail\WaveMail\obj\Debug\WaveMail.csproj.CopyComplete
+C:\Users\guilh\OneDrive\Área de Trabalho\WaveMail V2\WaveMail\WaveMail\obj\Debug\WaveMail.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\WaveMail V2\WaveMail\WaveMail\obj\Debug\WaveMail.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\bin\Debug\WaveMail.exe.config
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\bin\Debug\WaveMail.exe
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\bin\Debug\WaveMail.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\obj\Debug\WaveMail.csproj.AssemblyReference.cache
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\obj\Debug\WaveMail.csproj.SuggestedBindingRedirects.cache
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\obj\Debug\WaveMail.CadastroLogin.resources
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\obj\Debug\WaveMail.EnviarEmail.resources
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\obj\Debug\WaveMail.Form1.resources
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\obj\Debug\WaveMail.LerEmail.resources
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\obj\Debug\WaveMail.Login.resources
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\obj\Debug\WaveMail.Properties.Resources.resources
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\obj\Debug\WaveMail.csproj.GenerateResource.cache
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\obj\Debug\WaveMail.exe.licenses
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\obj\Debug\WaveMail.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\obj\Debug\WaveMail.csproj.CopyComplete
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\obj\Debug\WaveMail.exe
+C:\Users\natha\OneDrive\Área de Trabalho\WaveMail\WaveMail\obj\Debug\WaveMail.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\WaveMail Arquivos\WaveMail\WaveMail\bin\Debug\WaveMail.exe.config
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\WaveMail Arquivos\WaveMail\WaveMail\bin\Debug\WaveMail.exe
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\WaveMail Arquivos\WaveMail\WaveMail\bin\Debug\WaveMail.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\WaveMail Arquivos\WaveMail\WaveMail\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\WaveMail Arquivos\WaveMail\WaveMail\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\WaveMail Arquivos\WaveMail\WaveMail\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\WaveMail Arquivos\WaveMail\WaveMail\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\WaveMail Arquivos\WaveMail\WaveMail\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\WaveMail Arquivos\WaveMail\WaveMail\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\WaveMail Arquivos\WaveMail\WaveMail\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\WaveMail Arquivos\WaveMail\WaveMail\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\WaveMail Arquivos\WaveMail\WaveMail\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\WaveMail Arquivos\WaveMail\WaveMail\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\WaveMail Arquivos\WaveMail\WaveMail\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\WaveMail Arquivos\WaveMail\WaveMail\obj\Debug\WaveMail.csproj.AssemblyReference.cache
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\WaveMail Arquivos\WaveMail\WaveMail\obj\Debug\WaveMail.CadastroLogin.resources
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\WaveMail Arquivos\WaveMail\WaveMail\obj\Debug\WaveMail.EnviarEmail.resources
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\WaveMail Arquivos\WaveMail\WaveMail\obj\Debug\WaveMail.Form1.resources
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\WaveMail Arquivos\WaveMail\WaveMail\obj\Debug\WaveMail.LerEmail.resources
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\WaveMail Arquivos\WaveMail\WaveMail\obj\Debug\WaveMail.Login.resources
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\WaveMail Arquivos\WaveMail\WaveMail\obj\Debug\WaveMail.Properties.Resources.resources
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\WaveMail Arquivos\WaveMail\WaveMail\obj\Debug\WaveMail.csproj.GenerateResource.cache
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\WaveMail Arquivos\WaveMail\WaveMail\obj\Debug\WaveMail.exe.licenses
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\WaveMail Arquivos\WaveMail\WaveMail\obj\Debug\WaveMail.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\WaveMail Arquivos\WaveMail\WaveMail\obj\Debug\WaveMail.exe
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\WaveMail Arquivos\WaveMail\WaveMail\obj\Debug\WaveMail.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\Backup\PenDrive\Faculdade\4° Periodo\Prog 2\WaveMail Arquivos\WaveMail\WaveMail\obj\Debug\WaveMail.csproj.Up2Date
